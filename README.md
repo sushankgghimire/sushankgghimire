@@ -11,11 +11,14 @@
 <img src="https://raw.githubusercontent.com/sushankgghimire/sushankgghimire/output/snake.svg" alt="Snake animation" />
 
 # 📊 GitHub Summary:
-[![GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=sushankgghimire&show_icons=true&theme=dark&hide_border=false)](https://github.com/sushankgghimire)
+<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushankgghimire&theme=dark)](https://github.com/sushankgghimire)
+  [![GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=sushankgghimire&show_icons=true&theme=dark&hide_border=false)](https://github.com/sushankgghimire)
 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushankgghimire&theme=dark)](https://github.com/sushankgghimire)
+
+</div>
 ---
-[![](https://visitcount.itsvg.in/api?id=sushankgghimire&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sushankgghimire&icon=0&color=0)]()
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
