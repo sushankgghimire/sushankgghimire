@@ -7,7 +7,7 @@
 # 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=sushankgghimire&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-# GitHub Commits:
+# 🐍 GitHub Contribution Snake:
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 # 📊 GitHub Summary:
