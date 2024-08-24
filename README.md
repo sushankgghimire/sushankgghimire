@@ -8,7 +8,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=sushankgghimire&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 🐍 GitHub Contribution Snake:
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sushankgghimire/sushankgghimire/output/snake.svg" alt="Snake animation" />
 
 # 📊 GitHub Summary:
 [![GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=sushankgghimire&show_icons=true&theme=dark&hide_border=false)](https://github.com/sushankgghimire)
