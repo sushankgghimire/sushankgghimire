@@ -1,3 +1,8 @@
+## 👋 Introduction
+
+I'm Sushank Ghimire, an avid machine learning learner and practitioner with a strong passion for backend development. I enjoy diving deep into algorithms, building models, and working on cutting-edge technologies that push the boundaries of AI. In addition to machine learning, I also have a keen interest in backend systems, ensuring they are efficient, scalable, and reliable.
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sushank.gh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sushankghimire) 
 
