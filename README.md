@@ -1,29 +1,36 @@
-## 👋 Introduction
+# Sushank Ghimire
 
-I'm Sushank Ghimire, an avid machine learning learner and practitioner with a strong passion for backend development. I enjoy diving deep into algorithms, building models, and working on cutting-edge technologies that push the boundaries of AI. In addition to machine learning, I also have a keen interest in backend systems, ensuring they are efficient, scalable, and reliable.
+AI engineer in Kathmandu, Nepal. I build LLM agents, retrieval systems and document intelligence pipelines that run in production, and the FastAPI and Django backends behind them.
 
+Currently Software Development Engineer II at Renegade Insurance. Previously Verisk Nepal and Naamche (reAlpha).
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sushank.gh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sushankghimire) 
+Most of my professional work lives in private repositories under employer accounts, so the activity here is a small slice of what I do. The full picture is on my site.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**[sushankghimire.com.np](https://sushankghimire.com.np)**
 
-# 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=sushankgghimire&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+## What I work on
 
-# 🐍 GitHub Contribution Snake:
-<img src="https://raw.githubusercontent.com/sushankgghimire/sushankgghimire/output/snake.svg" alt="Snake animation" />
+- Tool-calling agents with reflection loops and orchestration on Anthropic Claude and OpenAI, mostly through AWS Bedrock
+- RAG over messy real-world documents: structure-aware chunking, hybrid retrieval, re-ranking
+- Browser automation agents that complete multi-step workflows in web apps with no API
+- Multimodal document extraction combining OCR with vision-capable models
+- Production backends in FastAPI and Django, with the observability to keep them at 99.9% uptime
 
-# 📊 GitHub Summary:
-<div align="center">
+## Selected projects
 
-  [![GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=sushankgghimire&show_icons=true&theme=dark&hide_border=false)](https://github.com/sushankgghimire)
+| Project | What it is |
+| --- | --- |
+| [EZ-Crossword](https://github.com/sushankgghimire/EZ-Crossword) | Solves newspaper crosswords and generates new ones with transformer QA models. [Live demo](https://ez-crossword.vercel.app/) |
+| [PokeQuery](https://github.com/sushankgghimire/PokeQuery) | Async FastAPI service that caches the PokeAPI into PostgreSQL and serves filtered, versioned queries |
+| [FastTrackV2](https://github.com/sushankgghimire/FastTrackV2) | Django 5 and DRF platform with Docker, uv, ruff and a one-command justfile bootstrap |
+| [GenAI-360](https://github.com/sushankgghimire/GenAI-360) | Notes and re-implemented exercises from the Activeloop GenAI course, ported to LangChain 0.2 |
+| [Research notebooks](https://sushankghimire.com.np/research/) | Six classical ML studies (PCA, decision trees, Naive Bayes, KNN, ANN, KD-trees), each with a paper |
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushankgghimire&theme=dark)](https://github.com/sushankgghimire)
+## Writing
 
-</div>
+- [Making tool-calling agents reliable on AWS Bedrock](https://sushankghimire.com.np/blog/reliable-tool-calling-agents-bedrock-claude/)
+- [RAG on messy HTML: preprocessing, structure-aware chunking and hybrid retrieval](https://sushankghimire.com.np/blog/rag-on-messy-html-chunking-hybrid-retrieval/)
 
-[![](https://visitcount.itsvg.in/api?id=sushankgghimire&icon=0&color=0)](https://visitcount.itsvg.in)
+## Elsewhere
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[LinkedIn](https://www.linkedin.com/in/sushankghimire/) · [X](https://x.com/superdanktea) · [sushankgghimire@gmail.com](mailto:sushankgghimire@gmail.com)
